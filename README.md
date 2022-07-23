@@ -36,6 +36,17 @@ The main benefits of AutoML are:
 ![alt text](https://github.com/AbdulJabbar64/Heart-Attack-Risk-Predictor-Using-Auto-ML/blob/main/images/Best_model.PNG)
 
 
+# Auto ML in EvalML
+EvalML is an open-source Python library for automatically building, optimizing, and evaluating machine learning pipelines for a given dataset. Like any other AutoML library, it also performs data pre-processing, feature engineering, selection, model building, hyper-parameter tuning, cross-validation,
+EvalML is an AutoML library which builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.
+
+Key Functionality
+
+* Automation - Makes machine learning easier. Avoid training and tuning models by hand. Includes data quality checks, cross-validation and more.
+* Data Checks - Catches and warns of problems with your data and problem setup before modeling.
+* End-to-end - Constructs and optimizes pipelines that include state-of-the-art preprocessing, feature engineering, feature selection, and a variety of modeling techniques.
+* Model Understanding - Provides tools to understand and introspect on models, to learn how they'll behave in your problem domain.
+* Domain-specific - Includes repository of domain-specific objective functions and an interface to define your own.
 
 
 
