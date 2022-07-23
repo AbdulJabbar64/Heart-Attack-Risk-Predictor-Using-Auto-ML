@@ -7,6 +7,8 @@ Automated machine learning (AutoML) is the process of applying machine learning 
 it automates the selection, composition and parameterization of machine learning models. Automating the machine learning process makes it more user-friendly and 
 often provides faster, more accurate outputs than hand-coded algorithms.
 
+![alt text](https://github.com/AbdulJabbar64/Heart-Attack-Risk-Predictor-Using-Auto-ML/blob/main/images/AutoML.PNG)
+
 AutoML software platforms make machine learning more user-friendly and give organizations without a specialized data scientist or machine learning expert access to machine learning.
 These platforms can be acquired from a third-party vendor, accessed through open source repositories like GitHub or built in-house.
 
