@@ -29,3 +29,13 @@ The main benefits of AutoML are:
 * Cost savings -- Having a faster, more efficient machine learning process means a company can save money by devoting less of its budget to maintaining that process.
 * Accessibility -- Having a simpler process allows companies to save money on training staff or hiring experts. It also makes machine learning a viable possibility for a wider range of companies.
 * Performance -- AutoML algorithms also tend to be more efficient than hand-coded models.
+
+
+# Best Model Get By AutoML by EvalML
+
+![alt text](https://github.com/AbdulJabbar64/Heart-Attack-Risk-Predictor-Using-Auto-ML/blob/main/images/Best_model.PNG)
+
+
+
+
+
