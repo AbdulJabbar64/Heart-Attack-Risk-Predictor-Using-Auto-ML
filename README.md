@@ -19,3 +19,11 @@ AutoML automatically locates and uses the optimal type of machine learning algor
 
 * Neural architecture search, which automates the design of neural networks. This helps AutoML models discover new architectures for problems that require them.
 * Transfer learning, in which pretrained models apply what they've learned to new data sets. Transfer learning helps AutoML apply existing architectures to new problems that require it.
+
+# Pros and cons of AutoML
+The main benefits of AutoML are:
+
+* Efficiency -- It speeds up and simplifies the machine learning process and reduces training time of machine learning models.
+* Cost savings -- Having a faster, more efficient machine learning process means a company can save money by devoting less of its budget to maintaining that process.
+* Accessibility -- Having a simpler process allows companies to save money on training staff or hiring experts. It also makes machine learning a viable possibility for a wider range of companies.
+* Performance -- AutoML algorithms also tend to be more efficient than hand-coded models.
